@@ -1,0 +1,5 @@
+#include <stdio.h>
+int fact(int n)
+{
+	return n;
+}
